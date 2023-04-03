@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background-color:white;
+font-family: 'Roboto', sans-serif;
+
+}
+.c{
+
+    background-color:#E4E4E6;
+    max-width:1000px;
+    margin:0 auto;
+    padding:20px;
+}
+.profile-img{
+    width:140px;
+    height:120px;
+    border:3px ridge solid;
+    border-radius: 50%;
+    float:left;
+}
+.hb{
+    float:left;
+    padding:30px;
+    color:rgb(59, 10, 88);
+}
+.header-contact{
+    float:right;
+    padding:20px;
+}
+.header-contact a{
+ text-decoration:none;
+ color:green;
+    font-weight:bold;
+}
+.header-contact a:hover{
+    text-decoration:underline;
+ color:red;
+
+}
+
+.div-clear{
+    clear:both;
+}
+.heading-hr{
+    
+
+    border:1px rgb(60, 22, 2) solid;
+    margin:20px auto;
+    width:100%
+    
+}
+
+/*personal section start */
+.content{
+
+}
+
+.left-div{
+width: 30%;
+float: left;
+
+
+}
+.right-div{
+    width: 70%;
+    float: left;
+
+
+}
+.common-hr{
+    
+
+        border:2px rgb(100, 80, 74) solid;
+        margin:20px auto;
+        width:100%
+        
+}
+/*personal section End */
+
+/*Education section start*/
+       .a{
+        width: 45%;
+        float: left;
+}
+        .b{
+            width:35%;
+            float: right;
+
+        }
+
+/*footer start*/
+.f{
+
+    background-color: black;
+    text-align:center;
+    padding:10px;
+}
+.f a{
+
+    color:white;
+    text-decoration:none;
+    margin:20px;
+}
+.f p{
+
+    color:white;
+    text-decoration:none;
+    margin-top:20px;
+}
+p{
+    margin:15px;
+    color:rgb(87, 25, 138);
+    font-weight: bold;
+    font-size: small;
+}
+           
+    
